@@ -776,6 +776,14 @@ var pages = [
 "https://yurisehat.blogspot.com/2019/12/the-reason-men-want-to-return-even.html",
 "https://yurisehat.blogspot.com/2019/12/the-sign-of-former-lover-still-loves-you.html",
 "https://yurisehat.blogspot.com/2019/12/want-to-express-feelings-to-guys-try.html",
+"https://yurisehat.blogspot.com/2020/02/aloe-vera-for-health-and-beauty.html",
+"https://yurisehat.blogspot.com/2020/02/detoxing-bodys-benefits.html",
+"https://yurisehat.blogspot.com/2020/02/facial-treatments-to-get-your-skin-back.html",
+"https://yurisehat.blogspot.com/2020/02/heart-health-and-dark-chocolate.html",
+"https://yurisehat.blogspot.com/2020/02/make-better-nights-sleep-without.html",
+"https://yurisehat.blogspot.com/2020/02/mind-and-body-healing-centers-how-can.html",
+"https://yurisehat.blogspot.com/2020/02/the-best-acupuncturist-how-to-find-in.html",
+"https://yurisehat.blogspot.com/2020/02/walkings-health-benefits.html",
 
 ]; 
 function randomPage() { 
